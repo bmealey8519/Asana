@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asana2.CLI", "Asana2.CLI\Asana2.CLI.csproj", "{1F0DC7E2-1B4B-4A33-BF4D-FFF56ADB78D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asana2.Library", "Asana2.Library\Asana2.Library.csproj", "{321D6E13-EC50-4358-AE8F-52925F55999D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asana2.Maui", "Asana2.Maui\Asana2.Maui.csproj", "{114AEF9C-763C-4675-AE54-F4D1DCC5A676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0DC7E2-1B4B-4A33-BF4D-FFF56ADB78D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0DC7E2-1B4B-4A33-BF4D-FFF56ADB78D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0DC7E2-1B4B-4A33-BF4D-FFF56ADB78D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0DC7E2-1B4B-4A33-BF4D-FFF56ADB78D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321D6E13-EC50-4358-AE8F-52925F55999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321D6E13-EC50-4358-AE8F-52925F55999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321D6E13-EC50-4358-AE8F-52925F55999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321D6E13-EC50-4358-AE8F-52925F55999D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114AEF9C-763C-4675-AE54-F4D1DCC5A676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114AEF9C-763C-4675-AE54-F4D1DCC5A676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114AEF9C-763C-4675-AE54-F4D1DCC5A676}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{114AEF9C-763C-4675-AE54-F4D1DCC5A676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114AEF9C-763C-4675-AE54-F4D1DCC5A676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114AEF9C-763C-4675-AE54-F4D1DCC5A676}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84180C7B-2A8F-4D58-A445-E80821BEE440}
+	EndGlobalSection
+EndGlobal
